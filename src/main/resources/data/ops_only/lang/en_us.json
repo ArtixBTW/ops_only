@@ -1,0 +1,11 @@
+{
+  "ops_only.disconnect_reason.not_op": "You cannot join right now – the server is in operators-only at the moment",
+
+  "ops_only.already_enabled": "Operators-only mode is already enabled",
+  "ops_only.is_enabled": "Operators-only mode is enabled",
+  "ops_only.enabled": "Operators-only mode enabled",
+
+  "ops_only.already_disabled": "Operators-only mode is already disabled",
+  "ops_only.is_disabled": "Operators-only mode is disabled",
+  "ops_only.disabled": "Operators-only mode disabled"
+}
