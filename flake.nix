@@ -12,7 +12,7 @@
       perSystem = {  pkgs, lib, ... }: let
         # needed for hot reloading
         # java = pkgs.jetbrains.jdk-no-jcef;
-        java = pkgs.jdk21;
+        java = pkgs.jdk25;
 
         nativeBuildInputs = with pkgs; [
           java
