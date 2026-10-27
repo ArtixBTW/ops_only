@@ -41,6 +41,7 @@ replay_*.log
 
 # direnv
 .direnv
+.envrc
 
 # jdt-ls
 .factorypath
